@@ -3,9 +3,13 @@ This repository contains an interactive dashboard created using Microsoft Excel,
 
 Features
 Sales by Region: Visualize sales distribution across different regions within the USA.
+
 Sales Method Analysis: Analyze the sales data based on different sales methods employed.
+
 Sales in USD by Year: Track the sales performance over the years, providing an overview of growth or decline.
+
 Region-wise Quantity: Explore the quantity of products sold in different regions.
+
 Sales by Retailer: Gain insights into sales contributions from different retailers.
 
 Identified &amp; rectified any data quality issues in the provided dataset in MS-Excel.  
